@@ -1,1 +1,0 @@
-result = [print('Hello World') for item in range(6)]
